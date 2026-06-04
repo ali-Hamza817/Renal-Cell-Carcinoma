@@ -1,0 +1,9 @@
+numpy
+pydicom
+matplotlib
+pandas
+scipy
+scikit-learn
+tqdm
+openpyxl
+requests

@@ -1,0 +1,60 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.dist-info/
+*.log
+*.zip
+*.tar.gz
+*.tgz
+*.egg
+*.whl
+.env
+.venv/
+venv/
+ENV/
+env/
+env*/
+.idea/
+.vscode/
+*.DS_Store
+*.iml
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.sqlite3
+*.sqlite
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.o
+*.a
+*.lib
+*.obj
+*.cache
+*.tmp
+*.bak
+*.old
+*.orig
+*.swp
+*~
+# Data files we don't want to push
+raw_dicom/
+raw_dicom/**
+# Python virtual environments
+E:/Renal Cell Carcinoma/.venv/
+E:/Renal Cell Carcinoma/.venv/**
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+.ipynb_checkpoints/**
+# Ignore large artifacts not needed for repo
